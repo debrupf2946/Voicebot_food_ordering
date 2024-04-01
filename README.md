@@ -2,7 +2,7 @@
 ### This is a _AI_ bot that **orders food** using _voice recognition_ 
 by running app1.py the bot will ask for Food Items, quantity
 by voice command, the customer can delete and modify the order
-after conformation, the bot shows the final bill
+after confirmation, the bot shows the final bill
 
 python libraries that I used
 1. PyAudio
